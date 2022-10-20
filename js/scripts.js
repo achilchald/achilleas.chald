@@ -21,7 +21,7 @@ window.onload = function() {
     'I\'m Achilleas',
     'I design and code things on the web',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:achilchald@gmail.com">achilchald@gmail.com</a>',
-    'You can also find me at <br> <a target="_blank" href="https://www.facebook.com/Achilleas.chaldeakis">facebook.com/Achilleas</a><br><a target="_blank" href="https://github.com/achilchald">github.com/achilchald</a><br><a target="_blank" href="https://dribbble.com/achilchald">dribbble.com/achilchald</a>',
+    'You can also find me at <br> <a target="_blank" href="https://www.linkedin.com/in/achilleas-chaldeakis-383a68252/">linkedin.com/Achilleas</a><br><a target="_blank" href="https://github.com/achilchald">github.com/achilchald</a><br><a target="_blank" href="https://dribbble.com/achilchald">dribbble.com/achilchald</a>',
     getCurrentTime(),
     '✌️'
   ]
